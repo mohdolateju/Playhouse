@@ -1,0 +1,19 @@
+Features
+  1.Free Movement of furniture to any position
+  2.Giving audio and visual feedback if placed right or wrong.
+  3.9 Background Music to 7 relax the user 2 fast.
+  4.Randomizing between doors and windows
+  5.3 different backgrounds.
+  6.Give the 3d look and feel by changing the dimensions of the furnitures.
+  7.They have for 4 seconds to place a furniture in stage 2.
+  8.They have 3 seconds for validation in stage 1
+  9.When they remove it shows cancellation of selection of furniture
+  10.Welldone!!! when finished
+
+
+Constraints 
+  1.Doors
+  2.windows constraints.
+  3.Rotation constraint
+  4.Ceiling Constraint
+
